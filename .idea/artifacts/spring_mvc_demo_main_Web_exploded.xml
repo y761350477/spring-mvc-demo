@@ -13,18 +13,20 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:5.0.5.RELEASE" />
           <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-dbcp:9.0.7" />
           <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:8.0.9-rc" />
-          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.2.4.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.2.4.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.2.4.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:5.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:5.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:5.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-web:5.0.5.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-tx:5.0.5.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-beans:5.0.5.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:5.0.5.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-core:5.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.5" />
           <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-juli:9.0.7" />
-          <element id="library" level="project" name="Gradle: aopalliance:aopalliance:1.0" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-jcl:5.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.5" />
         </element>
       </element>
     </root>
